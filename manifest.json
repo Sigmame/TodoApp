@@ -10,6 +10,9 @@
   "local_path": "index.html"
   }
 },
+"chrome_url_overrides" : {
+    "newtab": "index.html"
+  },
 "permissions": [
   "unlimitedStorage"
 ]
